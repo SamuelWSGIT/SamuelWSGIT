@@ -10,7 +10,7 @@
 
 ## About me
 
-- 🌱 Front-end web developer studying at <a target="_blank" href="https://www.alura.com.br">Alura</a>
+- 🌱 Front-end web developer studying React at <a target="_blank" href="https://www.alura.com.br">Alura</a>
 - 📍 Brasilia
 - 📫 You can find me through the contact links
 
