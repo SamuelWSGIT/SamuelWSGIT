@@ -1,5 +1,5 @@
-<h1 align="center">Olá! eu sou o Samuel Almeida <img src="./assets/dance.gif" alt="dance" width="100"> </h1>
-<div align="right"><a target="_blank" href="https://github.com/SamuelWSGIT">US</a></div>
+<h1 align="center">Hi! i'm Samuel Almeida <img src="./assets/dance.gif" alt="dance" width="100"> </h1>
+<div align="right"><a target="_blank" href="https://github.com/SamuelWSGIT">🇧🇷</a></div>
 <p align="center">
 <!-- <img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif" /> -->
 <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif" />
@@ -10,11 +10,11 @@
 
 ## About me
 
-- 🌱 Desenvolvedor Front-end cursando formação em React na <a target="_blank" href="https://www.alura.com.br">Alura</a>
+- 🌱 Front-end web developer studying at <a target="_blank" href="https://www.alura.com.br">Alura</a>
 - 📍 Brasilia
-- 📫 Você pode me encontrar através dos links de contato
+- 📫 You can find me through the contact links
 
-## Minhas estatísticas do github
+## My github stats
 
 <div display="inline-block" align="center">
 
@@ -25,13 +25,13 @@
 
 <div style="display: inline_block"><br>
   
-## Minhas Skills
+## My Skills
 
-**Linguagens de programação:**
+**Programming languages:**
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
 
-**Desenvolvimento Front-end:**
+**Front end development:**
 
 ![](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -39,12 +39,12 @@
 ![](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Context_API-0088CC.svg?&style=for-the-badge&logo=react&logoColor=white)
 
-**Desenvolvimento back-end:**
+**Backend development:**
 
 ![](https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/NestJs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 
-**Ferramentas:**
+**Tools:**
 
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -57,25 +57,25 @@
   </div>
 <div style="display: inline_block"><br>
   
-**Sistemas Operacionais:**
+**Operational systems:**
 
 ![](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/MacOs-000000.svg?&style=for-the-badge&logo=MacOS&logoColor=white)
 
   </div>
   
-<h1>Metas</h1>
+<h1>goals</h1>
 
-- [x] Ser aluno da Alura
-- [x] Completar a formação - Front-End<a target="_blank" href="https://cursos.alura.com.br/user/samuel-wow27/degree-front-end-113709/certificate">
+- [x] Be a Alura student
+- [x] Complete formation - Front-End<a target="_blank" href="https://cursos.alura.com.br/user/samuel-wow27/degree-front-end-113709/certificate">
       certification</a>
-- [ ] Completar a formação - TypeScript
-- [ ] Completar a formação - React with TypeScript
-- [ ] Completar a formação - Next JS
-- [ ] Completar o plano de estudos - Front-end, JavaScript e React
-- [ ] Ser contratado por uma grande empresa
+- [ ] Complete formation - TypeScript
+- [ ] Complete formation - React with TypeScript
+- [ ] Complete formation - Next JS
+- [ ] Complete the study plan - Front-end, JavaScript e React
+- [ ] Being hired by a large company
 
-## Fale comigo
+## Talk to me
 
 <div align="center">
 
