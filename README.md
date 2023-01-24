@@ -1,5 +1,5 @@
 <h1 align="center">Olá! eu sou o Samuel Almeida <img src="./assets/dance.gif" alt="dance" width="100"> </h1>
-<div align="right"><a target="_blank" href="https://github.com/SamuelWSGIT">US</a></div>
+<div align="right"><a target="_blank" href="https://github.com/SamuelWSGIT/SamuelWSGIT/blob/main/README_EN.md">US</a></div>
 <p align="center">
 <!-- <img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif" /> -->
 <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif" />
