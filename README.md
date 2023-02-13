@@ -66,7 +66,7 @@
   
 <h1>Metas</h1>
 
-- [x] Completar a formação - Front-End<a target="_blank" href="https://cursos.alura.com.br/user/samuel-wow27/degree-front-end-113709/certificate">
+- [x] Completar a formação - Front-End<a target="_blank" href="https://cursos.alura.com.br/degree/certificate/ef2383a9-9e43-4429-ae46-e142c15f9063">
       certification</a>
 - [ ] Completar a formação - TypeScript
 - [ ] Completar a formação - React with TypeScript
