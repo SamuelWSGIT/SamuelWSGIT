@@ -66,7 +66,7 @@
   
 <h1>goals</h1>
 
-- [x] Complete formation - Front-End<a target="_blank" href="https://cursos.alura.com.br/user/samuel-wow27/degree-front-end-113709/certificate">
+- [x] Complete formation - Front-End<a target="_blank" href="https://cursos.alura.com.br/degree/certificate/ef2383a9-9e43-4429-ae46-e142c15f9063">
       certification</a>
 - [ ] Complete formation - TypeScript
 - [ ] Complete formation - React with TypeScript
