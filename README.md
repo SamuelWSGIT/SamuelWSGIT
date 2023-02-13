@@ -66,7 +66,6 @@
   
 <h1>Metas</h1>
 
-- [x] Ser aluno da Alura
 - [x] Completar a formação - Front-End<a target="_blank" href="https://cursos.alura.com.br/user/samuel-wow27/degree-front-end-113709/certificate">
       certification</a>
 - [ ] Completar a formação - TypeScript
