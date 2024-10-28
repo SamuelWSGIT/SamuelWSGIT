@@ -19,8 +19,8 @@
 <div display="inline-block" align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=SamuelWSGIT&show_icons=true&theme=tokyonight)
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelWSGIT&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=default](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelWSGIT&theme=tokyonight&custom_title=Linguagens))
-
+[![]([https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelWSGIT&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=default](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelWSGIT&theme=tokyonight&custom_title=Linguagens))
+](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelWSGIT&theme=tokyonight&custom_title=Linguagens)
 </div>
 
 <div style="display: inline_block"><br>
