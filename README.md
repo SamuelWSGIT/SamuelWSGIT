@@ -11,7 +11,7 @@
 ## About me
 
 - 🌱 Desenvolvedor Front-end cursando formação em React na <a target="_blank" href="https://www.alura.com.br">Alura</a>
-- 📍 Brasilia
+- 📍 Brasília
 - 📫 Você pode me encontrar através dos links de contato
 
 ## Minhas estatísticas do github
@@ -39,12 +39,17 @@
 ![](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Context_API-0088CC.svg?&style=for-the-badge&logo=react&logoColor=white)
 
-**Desenvolvimento back-end:**
+**React e suas Tecnologias**:
 
-![](https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/NestJs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
+- **React Router**: para navegação de páginas sem recarregar, fundamental para aplicações SPA (Single Page Application).
+- **React Hooks**: como `useState`, `useEffect` e `useContext`, para o controle de estado e efeitos colaterais.
+- **Context API**: gerenciamento de estado global para comunicação entre componentes.
+- **Framer Motion**: animações e transições customizadas em elementos de React.
+- **Styled-Components**: estilização em JavaScript para componentes React, facilitando o design dinâmico.
+- **FontAwesome**: implementação de ícones modernos e responsivos nos componentes de React.
+- **Vite**: ferramenta de build para otimização de performance em projetos React.
 
-**Ferramentas:**
+**Ferramentas de Desenvolvimento**:
 
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -54,7 +59,7 @@
 ![](https://img.shields.io/badge/Discord-5865f2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
 ![](https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white)
 
-  </div>
+</div>
 <div style="display: inline_block"><br>
   
 **Sistemas Operacionais:**
@@ -62,17 +67,7 @@
 ![](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/MacOs-000000.svg?&style=for-the-badge&logo=MacOS&logoColor=white)
 
-  </div>
-  
-<h1>Metas</h1>
-
-- [x] Completar a formação - Front-End<a target="_blank" href="https://cursos.alura.com.br/degree/certificate/ef2383a9-9e43-4429-ae46-e142c15f9063">
-      certification</a>
-- [ ] Completar a formação - TypeScript
-- [ ] Completar a formação - React with TypeScript
-- [ ] Completar a formação - Next JS
-- [ ] Completar o plano de estudos - Front-end, JavaScript e React
-- [ ] Ser contratado por uma grande empresa
+</div>
 
 ## Fale comigo
 
