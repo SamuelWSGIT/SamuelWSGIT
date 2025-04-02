@@ -4,15 +4,15 @@
 <!-- <img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif" /> -->
 <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif" />
 </p align="center">
-<div align="center">
+<div align="left">
 
 ![](https://komarev.com/ghpvc/?username=SamuelWSGIT&style=for-the-badge&label=YOU+ARE+THE+VISITOR+NUMBER&color=4B0082)
 
 ## About me
 
- 🌱 Desenvolvedor Front-end cursando formação em React na <a target="_blank" href="https://www.alura.com.br">Alura</a>
- 📍 Brasília
- 📫 Você pode me encontrar através dos links de contato
+- 🌱 Desenvolvedor Front-end cursando formação em React na <a target="_blank" href="https://www.alura.com.br">Alura</a>
+- 📍 Brasília
+- 📫 Você pode me encontrar através dos links de contato
 
 ## Minhas estatísticas do github
 
