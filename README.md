@@ -10,9 +10,9 @@
 
 ## About me
 
-- 🌱 Desenvolvedor Front-end cursando formação em React na <a target="_blank" href="https://www.alura.com.br">Alura</a>
-- 📍 Brasília
-- 📫 Você pode me encontrar através dos links de contato
+ 🌱 Desenvolvedor Front-end cursando formação em React na <a target="_blank" href="https://www.alura.com.br">Alura</a>
+ 📍 Brasília
+ 📫 Você pode me encontrar através dos links de contato
 
 ## Minhas estatísticas do github
 
