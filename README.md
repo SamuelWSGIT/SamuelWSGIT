@@ -16,7 +16,7 @@
 
 ## Minhas estatísticas do github
 
-<div display="inline-block" align="center">
+<div display="inline-block" align="left">
 
 ![](https://github-readme-stats.vercel.app/api?username=SamuelWSGIT&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelWSGIT)](https://github.com/anuraghazra/github-readme-stats)
