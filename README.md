@@ -4,10 +4,12 @@
 <!-- <img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif" /> -->
 <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif" />
 </p>
-<div align="left">
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=SamuelWSGIT&style=for-the-badge&label=YOU+ARE+THE+VISITOR+NUMBER&color=4B0082)
 
+<div/>
+<div align="left">
 ## About me
 
 - 🌱 Desenvolvedor Front-end cursando formação em React na <a target="_blank" href="https://www.alura.com.br">Alura</a>
@@ -16,7 +18,7 @@
 
 ## Minhas estatísticas do github
 
-<div display="inline-block" align="left">
+<div display="inline-block" align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=SamuelWSGIT&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelWSGIT)](https://github.com/anuraghazra/github-readme-stats)
