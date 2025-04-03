@@ -40,7 +40,7 @@
 ![](https://img.shields.io/badge/Context_API-0088CC.svg?&style=for-the-badge&logo=react&logoColor=white)
 
 **React e suas Tecnologias**:
-<div display="inline-block" align="left">
+<p display="inline-block" align="left">
 - **React Router**: para navegação de páginas sem recarregar, fundamental para aplicações SPA (Single Page Application).
 - **React Hooks**: como `useState`, `useEffect` e `useContext`, para o controle de estado e efeitos colaterais.
 - **Context API**: gerenciamento de estado global para comunicação entre componentes.
@@ -48,7 +48,7 @@
 - **Styled-Components**: estilização em JavaScript para componentes React, facilitando o design dinâmico.
 - **FontAwesome**: implementação de ícones modernos e responsivos nos componentes de React.
 - **Vite**: ferramenta de build para otimização de performance em projetos React.
-</div>
+</p>
 
 **Ferramentas de Desenvolvimento**:
 
