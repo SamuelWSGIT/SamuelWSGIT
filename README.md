@@ -1,11 +1,13 @@
 <h1 align="center">Olá! eu sou o Samuel <img src="./assets/dance.gif" alt="dance" width="100"> </h1>
 <div align="right"><a target="_blank" href="https://github.com/SamuelWSGIT/SamuelWSGIT/blob/main/README_EN.md">US</a></div>
-<p align="left">
+<p align="center">
 <!-- <img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif" /> -->
 <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif" />
-![](https://komarev.com/ghpvc/?username=SamuelWSGIT&style=for-the-badge&label=YOU+ARE+THE+VISITOR+NUMBER&color=4B0082)
-</p align="center">
+</p>
 <div align="left">
+
+![](https://komarev.com/ghpvc/?username=SamuelWSGIT&style=for-the-badge&label=YOU+ARE+THE+VISITOR+NUMBER&color=4B0082)
+
 ## About me
 
 - 🌱 Desenvolvedor Front-end cursando formação em React na <a target="_blank" href="https://www.alura.com.br">Alura</a>
