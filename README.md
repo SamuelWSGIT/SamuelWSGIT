@@ -237,14 +237,26 @@ Trilha de desenvolvimento de software que integra programação, front-end, back
 
 ## 🚀 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [ProjetoPortifolio](https://github.com/SamuelWSGIT/ProjetoPortifolio) | Desenvolvimento de portfólio pessoal. | HTML, CSS, JavaScript |
-| [MANGAFLIX](https://github.com/SamuelWSGIT/MANGAFLIX) | Interface de catálogo de mangás inspirada em serviços de streaming. | HTML, CSS, JavaScript |
-| [Instagram-copia](https://github.com/SamuelWSGIT/Instagram-copia) | Recriação de uma interface do Instagram para praticar desenvolvimento web. | HTML, CSS |
-| [Shooter-game](https://github.com/SamuelWSGIT/Shooter-game) | Jogo desenvolvido como exercício de programação. | HTML, CSS, JavaScript |
+### Repositórios no GitHub
 
-**[Explorar todos os meus repositórios →](https://github.com/SamuelWSGIT?tab=repositories)**
+| Projeto | Descrição |
+| --- | --- |
+| [GamerFlow](https://github.com/SamuelWSGIT/gamer-flow) | Rede social de jogos com feed, avaliações e registro de progresso. **React, TypeScript, Vite**. |
+| [NEON//FOCUS — Hora de Focar](https://github.com/SamuelWSGIT/HoraDeFocar) | Aplicação Pomodoro com cronômetro personalizável e gerenciamento de tarefas. **React, TypeScript, Vite**. |
+| [Hermex — Locadora de Veículos](https://github.com/SamuelWSGIT/LocadoraDeVeiculos) | Aplicação de locação de veículos. |
+| [Instagram-copia](https://github.com/SamuelWSGIT/Instagram-copia) | Recriação de uma interface do Instagram para praticar desenvolvimento web. **HTML, CSS**. |
+| [Shooter-game](https://github.com/SamuelWSGIT/Shooter-game) | Jogo desenvolvido como exercício de programação. **HTML, CSS, JavaScript**. |
+| [ProjetoPortifolio](https://github.com/SamuelWSGIT/ProjetoPortifolio) | Desenvolvimento de portfólio pessoal. **HTML, CSS, JavaScript**. |
+| [MANGAFLIX](https://github.com/SamuelWSGIT/MANGAFLIX) | Interface de catálogo de mangás inspirada em serviços de streaming. **HTML, CSS, JavaScript**. |
+
+### Demonstrações online — Netlify
+
+| Projeto | Demonstração |
+| --- | --- |
+| Projeto Barbearia | [Acessar site](https://projeto-barbearia-git.netlify.app/) |
+| Chalé Hotel | [Acessar site](https://projeto-chalehotel.netlify.app/) |
+| Site de Notícias | [Acessar site](https://projeto-sitenoticias.netlify.app/) |
+| Portfólio React | [Acessar site](https://portfolio-react-samuel-almeida.netlify.app/) |
 
 ## 📊 Estatísticas do GitHub
 
