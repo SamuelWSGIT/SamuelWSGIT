@@ -249,14 +249,20 @@ A software development learning path that integrates programming, front-end, bac
 | [ProjetoPortifolio](https://github.com/SamuelWSGIT/ProjetoPortifolio) | Personal portfolio website. **HTML, CSS, JavaScript**. |
 | [MANGAFLIX](https://github.com/SamuelWSGIT/MANGAFLIX) | Manga catalog interface inspired by streaming services. **HTML, CSS, JavaScript**. |
 
-### Live demos — Netlify
+### Live demos
 
-| Project | Live demo |
-| --- | --- |
-| Barbershop Website | [Open website](https://projeto-barbearia-git.netlify.app/) |
-| Chalet Hotel | [Open website](https://projeto-chalehotel.netlify.app/) |
-| News Website | [Open website](https://projeto-sitenoticias.netlify.app/) |
-| React Portfolio | [Open website](https://portfolio-react-samuel-almeida.netlify.app/) |
+| Project | Platform | Live demo |
+| --- | --- | --- |
+| GamerFlow | Vercel | [Open website](https://gamerflow-six.vercel.app/) |
+| NEON//FOCUS — Focus Timer | Vercel | [Open website](https://hora-de-focar.vercel.app/) |
+| Hermex — Vehicle Rental | Vercel | [Open website](https://locadora-de-veiculos-omega.vercel.app/) |
+| Barbershop Website | Netlify | [Open website](https://projeto-barbearia-git.netlify.app/) |
+| Chalet Hotel | Netlify | [Open website](https://projeto-chalehotel.netlify.app/) |
+| News Website | Netlify | [Open website](https://projeto-sitenoticias.netlify.app/) |
+| React Portfolio | Netlify | [Open website](https://portfolio-react-samuel-almeida.netlify.app/) |
+| CSS Project | Netlify | [Open website](https://samuelws-projetocss.netlify.app/) |
+| JavaScript Project | Netlify | [Open website](https://samuelws-projetojs.netlify.app/) |
+| Web Portfolio | Netlify | [Open website](https://samuelwp-portfolioweb.netlify.app/) |
 
 ## 📊 GitHub statistics
 
