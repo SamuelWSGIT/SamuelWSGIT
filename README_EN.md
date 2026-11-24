@@ -237,14 +237,26 @@ A software development learning path that integrates programming, front-end, bac
 
 ## 🚀 Featured projects
 
-| Project | Description | Technologies |
-| --- | --- | --- |
-| [ProjetoPortifolio](https://github.com/SamuelWSGIT/ProjetoPortifolio) | Personal portfolio website. | HTML, CSS, JavaScript |
-| [MANGAFLIX](https://github.com/SamuelWSGIT/MANGAFLIX) | Manga catalog interface inspired by streaming services. | HTML, CSS, JavaScript |
-| [Instagram-copia](https://github.com/SamuelWSGIT/Instagram-copia) | Recreation of an Instagram interface to practice web development. | HTML, CSS |
-| [Shooter-game](https://github.com/SamuelWSGIT/Shooter-game) | Game developed as a programming exercise. | HTML, CSS, JavaScript |
+### GitHub repositories
 
-**[Explore all my repositories →](https://github.com/SamuelWSGIT?tab=repositories)**
+| Project | Description |
+| --- | --- |
+| [GamerFlow](https://github.com/SamuelWSGIT/gamer-flow) | Gaming social network with a feed, reviews, and progress tracking. **React, TypeScript, Vite**. |
+| [NEON//FOCUS — Focus Timer](https://github.com/SamuelWSGIT/HoraDeFocar) | Pomodoro app with a customizable timer and task management. **React, TypeScript, Vite**. |
+| [Hermex — Vehicle Rental](https://github.com/SamuelWSGIT/LocadoraDeVeiculos) | Vehicle rental application. |
+| [Instagram-copia](https://github.com/SamuelWSGIT/Instagram-copia) | Recreation of an Instagram interface to practice web development. **HTML, CSS**. |
+| [Shooter-game](https://github.com/SamuelWSGIT/Shooter-game) | Game developed as a programming exercise. **HTML, CSS, JavaScript**. |
+| [ProjetoPortifolio](https://github.com/SamuelWSGIT/ProjetoPortifolio) | Personal portfolio website. **HTML, CSS, JavaScript**. |
+| [MANGAFLIX](https://github.com/SamuelWSGIT/MANGAFLIX) | Manga catalog interface inspired by streaming services. **HTML, CSS, JavaScript**. |
+
+### Live demos — Netlify
+
+| Project | Live demo |
+| --- | --- |
+| Barbershop Website | [Open website](https://projeto-barbearia-git.netlify.app/) |
+| Chalet Hotel | [Open website](https://projeto-chalehotel.netlify.app/) |
+| News Website | [Open website](https://projeto-sitenoticias.netlify.app/) |
+| React Portfolio | [Open website](https://portfolio-react-samuel-almeida.netlify.app/) |
 
 ## 📊 GitHub statistics
 
