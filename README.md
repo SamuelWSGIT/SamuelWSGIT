@@ -249,14 +249,20 @@ Trilha de desenvolvimento de software que integra programação, front-end, back
 | [ProjetoPortifolio](https://github.com/SamuelWSGIT/ProjetoPortifolio) | Desenvolvimento de portfólio pessoal. **HTML, CSS, JavaScript**. |
 | [MANGAFLIX](https://github.com/SamuelWSGIT/MANGAFLIX) | Interface de catálogo de mangás inspirada em serviços de streaming. **HTML, CSS, JavaScript**. |
 
-### Demonstrações online — Netlify
+### Demonstrações online
 
-| Projeto | Demonstração |
-| --- | --- |
-| Projeto Barbearia | [Acessar site](https://projeto-barbearia-git.netlify.app/) |
-| Chalé Hotel | [Acessar site](https://projeto-chalehotel.netlify.app/) |
-| Site de Notícias | [Acessar site](https://projeto-sitenoticias.netlify.app/) |
-| Portfólio React | [Acessar site](https://portfolio-react-samuel-almeida.netlify.app/) |
+| Projeto | Plataforma | Demonstração |
+| --- | --- | --- |
+| GamerFlow | Vercel | [Acessar site](https://gamerflow-six.vercel.app/) |
+| NEON//FOCUS — Hora de Focar | Vercel | [Acessar site](https://hora-de-focar.vercel.app/) |
+| Hermex — Locadora de Veículos | Vercel | [Acessar site](https://locadora-de-veiculos-omega.vercel.app/) |
+| Projeto Barbearia | Netlify | [Acessar site](https://projeto-barbearia-git.netlify.app/) |
+| Chalé Hotel | Netlify | [Acessar site](https://projeto-chalehotel.netlify.app/) |
+| Site de Notícias | Netlify | [Acessar site](https://projeto-sitenoticias.netlify.app/) |
+| Portfólio React | Netlify | [Acessar site](https://portfolio-react-samuel-almeida.netlify.app/) |
+| Projeto CSS | Netlify | [Acessar site](https://samuelws-projetocss.netlify.app/) |
+| Projeto JavaScript | Netlify | [Acessar site](https://samuelws-projetojs.netlify.app/) |
+| Portfólio Web | Netlify | [Acessar site](https://samuelwp-portfolioweb.netlify.app/) |
 
 ## 📊 Estatísticas do GitHub
 
