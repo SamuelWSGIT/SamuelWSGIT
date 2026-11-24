@@ -1,6 +1,10 @@
 # Samuel Almeida
 
 <p align="center">
+  <a href="README.en.md"><img src="https://img.shields.io/badge/English-EN-2563EB?style=for-the-badge" alt="Read in English"></a>
+</p>
+
+<p align="center">
   <strong>Desenvolvimento Front-end | React & TypeScript | Suporte e Infraestrutura de TI</strong>
 </p>
 
@@ -36,8 +40,9 @@ Minha experiência no atendimento a usuários e na resolução de problemas téc
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
 - HTML semântico, CSS Grid, Flexbox, mobile first e design responsivo.
-- Manipulação do DOM, eventos, formulários e lógica de programação.
-- Componentização, React Hooks (`useState`, `useEffect`, `useContext`), Context API e React Router.
+- JavaScript aplicado ao navegador, manipulação do DOM, eventos, formulários e lógica de programação.
+- JavaScript assíncrono e consumo de APIs.
+- JSX, componentização com React e TypeScript, React Hooks (`useState`, `useEffect`, `useContext`), Context API e React Router.
 - Gerenciamento de estado com Redux; animações com Framer Motion e ícones com Font Awesome.
 - Consumo de APIs com Axios, acessibilidade web e fundamentos de SEO.
 
@@ -61,8 +66,15 @@ Atualmente aprofundo conhecimentos em Node.js, Next.js, integração entre front
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-Versionamento, organização de código, padronização, publicação de aplicações com Vercel e GitHub Pages, fundamentos de metodologias ágeis e colaboração com Trello, Miro e Slack.
+npm, npx, Vite, DevTools do navegador, depuração, versionamento, organização de código, padronização, publicação de aplicações com Vercel e GitHub Pages, fundamentos de metodologias ágeis e colaboração com Trello, Miro e Slack.
+
+### Inteligência artificial aplicada ao desenvolvimento
+
+- Fundamentos de IA generativa e letramento em IA.
+- Compreensão do papel da IA como copiloto, agente e parceira de trabalho no desenvolvimento de software.
+- Fundamentos de automação com IA e do impacto da IA generativa no fluxo de trabalho de desenvolvimento.
 
 ### Suporte técnico e infraestrutura
 
@@ -146,10 +158,64 @@ Trilha de desenvolvimento de software que integra programação, front-end, back
 
 | Etapa | Conteúdo | Progresso |
 | --- | --- | --- |
-| Nível base | Fundamentos e novo contexto do desenvolvimento | Etapa anterior |
-| Nível 1 | Front-end com JavaScript e React | Etapa anterior |
-| **Nível 2** | **Back-end, Java, APIs e dados** | **Em andamento** |
-| Nível 3 | IA aplicada ao desenvolvimento profissional | Próxima etapa |
+| Nível base | Fundamentos da web e desenvolvimento com IA generativa | Etapa de estudos concluída |
+| Nível 1 | Front-end com JavaScript e React | Etapa de estudos concluída |
+| **Nível 2** | **Java, Spring Boot, APIs REST, SQL e Docker** | **Em andamento** |
+| Nível 3 | Especificações, engenharia de contexto e desenvolvimento orientado por IA | Próxima etapa |
+
+<details>
+<summary><strong>Nível base — Fundamentos da web e IA generativa: conhecimentos adquiridos</strong></summary>
+
+| Área | Conteúdos estudados |
+| --- | --- |
+| Fundamentos da web | Internet e conceitos essenciais da web |
+| Desenvolvimento de interfaces | HTML, CSS e responsividade |
+| Programação | Introdução ao JavaScript |
+| IA generativa | Letramento em IA e mudanças no trabalho de desenvolvimento |
+| Desenvolvimento assistido por IA | Papel da IA como copiloto, agente, recurso de automação e parceira de trabalho |
+
+</details>
+
+<details>
+<summary><strong>Nível 1 — Front-end com JavaScript e React: conhecimentos adquiridos</strong></summary>
+
+| Área | Conteúdos estudados |
+| --- | --- |
+| JavaScript no navegador | DOM, eventos e formulários |
+| Programação assíncrona | JavaScript assíncrono e consumo de APIs |
+| Ferramentas de desenvolvimento | npm, npx, Vite e DevTools do navegador |
+| React e TypeScript | JSX, componentes, TypeScript e Hooks |
+| Arquitetura de aplicações | Rotas, Context API e bibliotecas externas |
+| Publicação e qualidade | Deploy e boas práticas de desenvolvimento front-end |
+
+</details>
+
+<details>
+<summary><strong>Nível 2 — Back-end, Java, APIs e dados: em andamento (conteúdo previsto)</strong></summary>
+
+| Área | Conteúdos previstos na formação |
+| --- | --- |
+| Java e orientação a objetos | Tipagem estática, classes, métodos, encapsulamento, herança e interfaces |
+| Java moderno | Coleções, generics, exceções, lambdas e recursos modernos da linguagem |
+| Spring Boot e APIs REST | Criação de APIs REST, validação e DTOs (Data Transfer Objects) |
+| Persistência e banco de dados | JPA, bancos de dados, SQL e migrations |
+| Segurança de aplicações | Autenticação e autorização |
+| Infraestrutura e publicação | Logs, Docker, deploy e práticas de projetos profissionais |
+
+</details>
+
+<details>
+<summary><strong>Nível 3 — IA aplicada ao desenvolvimento profissional: próxima etapa (conteúdo previsto)</strong></summary>
+
+| Área | Conteúdos previstos na formação |
+| --- | --- |
+| Engenharia de requisitos | Transformação de problemas vagos em tarefas executáveis, especificações claras e critérios de aceite |
+| Planejamento técnico | Mapeamento de restrições técnicas e identificação de casos extremos (edge cases) |
+| Engenharia de contexto | Context Engineering, arquivos `AGENTS.md` e `CLAUDE.md` |
+| Ferramentas e integração | Harness, MCPs (Model Context Protocol), OpenAI Codex, Claude Code e Cursor |
+| Desenvolvimento orientado por IA | Práticas para reduzir ambiguidades e aumentar o controle sobre o trabalho assistido por IA |
+
+</details>
 
 [Consultar carreira na Alura (requer login)](https://cursos.alura.com.br/dashboard/career/carreira-dev-full-stack-zero-com-ia)
 
@@ -158,9 +224,11 @@ Trilha de desenvolvimento de software que integra programação, front-end, back
 | Área | Temas de estudo |
 | --- | --- |
 | Desenvolvimento web | JavaScript, TypeScript, React, React com TypeScript e Next.js |
-| Back-end (em estudo) | Java, APIs e dados |
+| Back-end (em estudo; conteúdo previsto) | Java, POO, Spring Boot, APIs REST, JPA, SQL, autenticação e autorização |
 | Interface e experiência do usuário | Figma, responsividade, acessibilidade e arquitetura CSS |
 | Ferramentas de desenvolvimento | Git, GitHub, Vite, ESLint, Prettier e integração de APIs |
+| IA aplicada ao desenvolvimento | IA generativa, letramento em IA, copilotos, agentes e fundamentos de automação |
+| IA aplicada ao desenvolvimento (próxima etapa) | Engenharia de contexto, especificações, critérios de aceite, MCPs e ferramentas de agentes de código |
 | Gestão de serviços de TI | Fundamentos de ITIL e metodologias ágeis |
 
 <!-- Adicione aqui novos certificados com título, instituição, carga horária, data e link da credencial. -->
