@@ -1,7 +1,7 @@
 # Samuel Almeida
 
 <p align="center">
-  <a href="README.en.md"><img src="https://img.shields.io/badge/English-EN-2563EB?style=for-the-badge" alt="Read in English"></a>
+  <a href="README_EN.md"><img src="https://img.shields.io/badge/English-EN-2563EB?style=for-the-badge" alt="Read in English"></a>
 </p>
 
 <p align="center">
